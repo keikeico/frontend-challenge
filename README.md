@@ -1,4 +1,4 @@
-# KeiKei React Native Challenge
+# KeiKei Frontend Challenge
 
 At our software development house nestled in the vibrant city of İstanbul, we embody innovation and a passion for crafting top-notch solutions. We wholeheartedly embrace agile methodologies and adhere to industry best practices throughout the software life cycle.
 
